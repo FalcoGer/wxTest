@@ -5,7 +5,6 @@ Windows/
 *.orig
 *.swp
 *~
-wxTest.mk
 wxTest.txt
 compile_flags.txt
 

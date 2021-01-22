@@ -4,6 +4,7 @@ Windows/
 
 *.orig
 *.swp
+*.bak
 *~
 wxTest.txt
 compile_flags.txt

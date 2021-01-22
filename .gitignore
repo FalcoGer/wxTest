@@ -4,6 +4,7 @@ Windows/
 
 *.orig
 *.swp
+*~
 
 # Prerequisites
 *.d
